@@ -73,4 +73,7 @@ Estos ejercicios están diseñados para mejorar la comprensión y aplicación de
 
 ---
 <div align="center">
-**Universidad Europea • 2025**
+
+**Universidad Europea** • 2025
+
+</div>
