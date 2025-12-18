@@ -67,11 +67,6 @@ Este repositorio contiene una serie de ejercicios que demuestran el uso de estru
 ---
 
 ---
-
-### 💬 Conclusión
-Estos ejercicios están diseñados para mejorar la comprensión y aplicación de la programación iterativa en C++. A medida que avances, experimentarás un mayor dominio sobre bucles y estructuras de control. ¡Disfruta aprendiendo!
-
----
 <div align="center">
 
 **Universidad Europea** • 2025
